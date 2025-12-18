@@ -1,8 +1,8 @@
 {
   "name": "tasks",
   "version": "2.0.0",
-  "description": "Faculdade Uniasselvi. Seminário interdisciplinar Implementação de uma Aplicação WEB.",
-  "main": "uma lista de tarefas online que permite que os usuários criem, visualizem e gerenciem uma lista de tarefas pessoal. A interface de usuário é projetada para ser simples e intuitiva, com uma lista de tarefas na página principal, onde os usuários podem ver todas as suas tarefas atuais.",
+  "description": "Faculdade Uniasselvi. Semin\u00e1rio interdisciplinar Implementa\u00e7\u00e3o de uma Aplica\u00e7\u00e3o WEB.",
+  "main": "uma lista de tarefas online que permite que os usu\u00e1rios criem, visualizem e gerenciem uma lista de tarefas pessoal. A interface de usu\u00e1rio \u00e9 projetada para ser simples e intuitiva, com uma lista de tarefas na p\u00e1gina principal, onde os usu\u00e1rios podem ver todas as suas tarefas atuais.",
   "scripts": {
     "php": "php -S localhost:8000 -t public"
   },
@@ -18,5 +18,12 @@
   "homepage": "https://github.com/felipe-rodrigues-s/Todo-List#readme",
   "dependencies": {
     "sweetalert2": "^11.7.3"
-  }
+  },
+  "keywords": [
+    "css",
+    "docker",
+    "javascript",
+    "markdown",
+    "node"
+  ]
 }
