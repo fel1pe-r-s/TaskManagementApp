@@ -1,4 +1,6 @@
-# Tasks
+**Tags**: #CSS #Docker #JavaScript #Markdown #Node
+
+#TaskManagementApp #Tasks # Tasks
 
 Faculdade Uniasselvi. Seminário interdisciplinar Implementação de uma Aplicação WEB.
 
